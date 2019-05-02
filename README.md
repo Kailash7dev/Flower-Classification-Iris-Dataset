@@ -10,3 +10,5 @@ The columns in this dataset are:
   
 
 Objective: Our objective is try to classify the class variable (species) with help of length and width of sepal, petals given.
+
+Dataset Can be Found at - https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/d546eaee765268bf2f487608c537c05e22e4b221/iris.csv OR at Sklearn Package.
